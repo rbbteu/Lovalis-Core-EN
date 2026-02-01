@@ -1,0 +1,11 @@
+﻿# System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Lovalis Local Backups
+_Upload/
+Source/
+PreStage/
+*.tmp
+*.bak
