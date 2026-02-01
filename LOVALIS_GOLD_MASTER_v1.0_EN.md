@@ -1,17 +1,13 @@
-﻿<div align='center'><img src='99_ASSETS/VISUALS/logo_lovalis_master.svg' width='250'><br><h1>LOVALIS COMPENDIUM - GOLD MASTER</h1></div>
+﻿<div align='center'><img src='99_ASSETS/VISUALS/logo_lovalis_master.svg' width='250'><br><h1>LOVALIS COMPENDIUM - GOLD MASTER (EN)</h1></div>
 
-# LOVALIS COMPENDIUM - GOLD MASTER (EN)
 > **Version:** 1.0 (English Reference)
-> **Status:** DUAL AUDITED
-> **Certificates:** [Stability](00_META_DOCS/CERTIFICATE_A_STABILITY.md) | [Fidelity](00_META_DOCS/CERTIFICATE_B_FIDELITY.md)
-
-This document contains the full source code of the societal architecture.
+> **Status:** GOLD MASTER (DUAL AUDITED)
+> **Hash-Basis:** 2026-02-01 11:56
 
 ---
 
 
-<a name='MANIFEST_V1.md'></a>
->>> MODULE: MANIFEST_V1.md <<<
+>>> MODUL: MANIFEST_V1.md <<<
 ---
 <div align="center">
   <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="200" alt="LOVALIS MANIFEST">
@@ -72,14 +68,14 @@ This is not a proposal. This is a specification for the survival of human sovere
 *End of Manifest.*
 
 
-<a name='README.md'></a>
->>> MODULE: README.md <<<
+>>> MODUL: README.md <<<
 ---
 <div align="center">
   <img src="99_ASSETS/VISUALS/logo_lovalis_master.svg" width="250" alt="LOVALIS SYSTEM">
   <br>
-  <h1>LOVALIS CORE REPOSITORY</h1>
-</div>
+  <h1>LOVALIS CORE REPOSITORY</h1></div>
+
+> **🇩🇪 Deutsche Originalversion:** [Go to Lovalis-Core-DE](https://github.com/rbbteu/Lovalis-Core-DE)
 
 > **System:** Lovalis (Logica-Valitas-System)
 > **Version:** 1.0 (GOLD MASTER (DUAL AUDITED))
@@ -133,8 +129,8 @@ Validation and Defense.
 
 
 
-<a name='FIRST_CONTACT_PROTOCOLS.md'></a>
->>> MODULE: FIRST_CONTACT_PROTOCOLS.md <<<
+
+>>> MODUL: FIRST_CONTACT_PROTOCOLS.md <<<
 ---
 # FIRST CONTACT PROTOCOLS (ONBOARDING)
 > **Target Group:** New Nodes (Refugees from the Legacy System)
@@ -172,8 +168,7 @@ You are now a Node. Now you need a Cluster.
 **Welcome to Reality.**
 
 
-<a name='ABOUT_PROVENANCE.md'></a>
->>> MODULE: ABOUT_PROVENANCE.md <<<
+>>> MODUL: ABOUT_PROVENANCE.md <<<
 ---
 # ABOUT PROVENANCE: ORIGIN & LEGITIMACY
 
@@ -195,8 +190,7 @@ With the creation of the **Gold Master v1.0**, a historic break occurs:
 The legitimacy of Lovalis is not derived from elections, but from its ability to physically guarantee *Survival* and *Freedom*.
 
 
-<a name='01_COMPENDIUM.md'></a>
->>> MODULE: 01_KERNEL\01_COMPENDIUM.md <<<
+>>> MODUL: 01_KERNEL\01_COMPENDIUM.md <<<
 ---
 <div align="right">
   <img src="99_ASSETS/VISUALS/logo_logica_core.svg" width="60" alt="Logica AI">
@@ -285,8 +279,7 @@ If the environmental quality drops, the available money supply in the cluster au
 12. **Evolutionary Adaptation:** Right to update the system.
 
 
-<a name='01_COMPENDIUM.md'></a>
->>> MODULE: 02_VALITAS\01_COMPENDIUM.md <<<
+>>> MODUL: 02_VALITAS\01_COMPENDIUM.md <<<
 ---
 <div align="center">
   <br><br>
@@ -315,8 +308,7 @@ A static mind cannot govern a dynamic system. Empathy requires physical experien
 Between ages 18-21, every Node rotates through 3 different clusters (e.g., Agriculture, Tech, Care). The system funds this travel ($Calibration Budget$) to ensure every citizen understands the whole system before they vote.
 
 
-<a name='02_CONSTITUTION_LAWS.md'></a>
->>> MODULE: 02_VALITAS\02_CONSTITUTION_LAWS.md <<<
+>>> MODUL: 02_VALITAS\02_CONSTITUTION_LAWS.md <<<
 ---
 # THE LOVALIS CONSTITUTION (LAWS 1-27)
 
@@ -487,8 +479,7 @@ You can opt out. The system leaves you alone if you want.
 ---
 
 
-<a name='01_COMPENDIUM.md'></a>
->>> MODULE: 03_PULS\01_COMPENDIUM.md <<<
+>>> MODUL: 03_PULS\01_COMPENDIUM.md <<<
 ---
 # BOOK III: PULS (THE ECONOMY OF RESONANCE)
 > **Source:** Fusion (Valitas Econ + GER Core)
@@ -575,8 +566,7 @@ The rich *want* to lend you money to build your house, because losing a little v
 ---
 
 
-<a name='01_COMPENDIUM.md'></a>
->>> MODULE: 04_SIMULATION\01_COMPENDIUM.md <<<
+>>> MODUL: 04_SIMULATION\01_COMPENDIUM.md <<<
 ---
 <div align="right">
   <img src="99_ASSETS/VISUALS/logo_logica_core.svg" width="60" alt="Logica AI">
@@ -659,8 +649,7 @@ Every law must pass these three standard simulations:
 ---
 
 
-<a name='01_COMPENDIUM.md'></a>
->>> MODULE: 05_NETWORK\01_COMPENDIUM.md <<<
+>>> MODUL: 05_NETWORK\01_COMPENDIUM.md <<<
 ---
 # BOOK V: NETWORK (THE SOCIAL FABRIC)
 > **Source:** Fusion (Valitas Social + GER Core)
@@ -732,8 +721,7 @@ A cluster can initiate an *Ostra Vote* (Ostracism).
 ---
 
 
-<a name='01_COMPENDIUM.md'></a>
->>> MODULE: 06_TRANSITION\01_COMPENDIUM.md <<<
+>>> MODUL: 06_TRANSITION\01_COMPENDIUM.md <<<
 ---
 <div align="right">
   <img src="99_ASSETS/VISUALS/logo_logica_core.svg" width="60" alt="Logica AI">
@@ -801,8 +789,7 @@ Lovalis is not a casino. You can bring money in to build a life, but you cannot 
 ---
 
 
-<a name='01_COMPENDIUM.md'></a>
->>> MODULE: 07_TOOLBOX\01_COMPENDIUM.md <<<
+>>> MODUL: 07_TOOLBOX\01_COMPENDIUM.md <<<
 ---
 # BOOK VII: TOOLBOX (SYSTEM TOOLS)
 > **Source:** Technical Specs
@@ -868,5 +855,5 @@ Lovalis is not a casino. You can bring money in to build a life, but you cannot 
 
 
 ---
-> **END OF GOLD MASTER (EN)**
+> **END OF GOLD MASTER**
 > *Libertas per Structuram*
