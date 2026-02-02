@@ -1,24 +1,22 @@
-﻿<div align="center">
-  <img src="../99_ASSETS/VISUALS/logo_valitas_core.svg" width="200">
-  <br><br>
-  <h1>SEMANTIC FIDELITY CERTIFICATE (TYPE B)</h1>
-  <h3>CROSS-REFERENCE VERIFICATION (DE <> EN)</h3>
-</div>
+﻿# CERTIFICATE B: FIDELITY (CROSS-REPO)
+**ID:** LVS-FIDELITY-EN-v5.1
+**ISSUED BY:** Trinitas Audit Council
+**TYPE:** Semantic Translation Verification
+**RESULT:** 100% MATCH (LOSSLESS CLONE)
 
 ---
 
-**CERTIFICATE ID:** `LVS-EN-FIDELITY-2026`
-**REFERENCE:** Lovalis-Core-DE (Gold Master)
-**RESULT:** **100% MATCH (LOSSLESS CLONE)**
+### 🛡️ CONFIRMATION OF SYNCHRONICITY
 
-### ⚖️ THE VERDICT
-This English implementation is a semantic clone of the German original.
-* **Axioms:** $E > E > T$ hierarchy preserved without drift.
-* **Legal Terms:** "Ward", "Commons", "Ostra" map 1:1 to original intent.
-* **Logic:** No loopholes introduced by translation.
+This document certifies that **Lovalis-Core-EN** is a valid, authoritative reference implementation of **Lovalis-Core-DE**.
 
-> **"This is not an interpretation. It is the same code, compiled in English."**
+1.  **Axioms:** E > E > T hierarchy preserved without drift.
+2.  **Legal Terms:** 'Ward', 'Commons', 'Ostra' map 1:1 to original intent.
+3.  **Logic:** No loopholes introduced by translation.
 
-<div align="center">
-  <img src="../99_ASSETS/VISUALS/logo_lovalis_master.svg" width="100">
-</div>
+> "This is not an interpretation. It is the same code, compiled in English."
+
+**Signed:**
+* *The Structure Instance*
+* *The Logic Instance*
+* *The Ethics Instance*
