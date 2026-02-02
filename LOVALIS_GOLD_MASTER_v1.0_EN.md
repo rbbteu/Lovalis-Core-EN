@@ -1,7 +1,7 @@
 ﻿<div align='center'><img src='99_ASSETS/VISUALS/logo_lovalis_master.svg' width='250'><br><h1>LOVALIS COMPENDIUM - GOLD MASTER (EN)</h1></div>
 
-> **Version:** 1.0 (English Reference)
-> **Status:** GOLD MASTER (DUAL AUDITED)
+> **Version: 5.1 (ETERNITY EDITION - ENGLISH)
+> **Status: DEPLOYED (TRINITAS SEALED)
 > **Hash-Basis:** 2026-02-01 11:56
 
 ---
@@ -15,7 +15,7 @@
   <h1>LOVALIS MANIFEST: LIBERTAS PER STRUCTURAM</h1>
 </div>
 
-> **Version:** 1.0 (Declaration of Axioms)
+> **Version: 5.1 (ETERNITY EDITION - ENGLISH)
 > **Type:** Fundamental System Postulate
 > **Status:** Immutable
 
@@ -78,7 +78,7 @@ This is not a proposal. This is a specification for the survival of human sovere
 > **🇩🇪 Deutsche Originalversion:** [Go to Lovalis-Core-DE](https://github.com/rbbteu/Lovalis-Core-DE)
 
 > **System:** Lovalis (Logica-Valitas-System)
-> **Version:** 1.0 (GOLD MASTER (DUAL AUDITED))
+> **Version: 5.1 (ETERNITY EDITION - ENGLISH)
 > **Language:** English (Reference Implementation)
 > ****Audit Status:** 🟢 PASSED
 > * [View Stability Report (175 Years)](00_META_DOCS/CERTIFICATE_A_STABILITY.md)
@@ -199,7 +199,7 @@ The legitimacy of Lovalis is not derived from elections, but from its ability to
 
 # BOOK I: KERNEL (THE PHYSICS OF THE SYSTEM)
 > **Source:** Fusion (GER Core + Valitas Origin)
-> **Status:** Gold Master / Remastered
+> **Status: DEPLOYED (TRINITAS SEALED)
 > **Focus:** Axioms & System Architecture
 
 ---
@@ -857,3 +857,4 @@ Lovalis is not a casino. You can bring money in to build a life, but you cannot 
 ---
 > **END OF GOLD MASTER**
 > *Libertas per Structuram*
+

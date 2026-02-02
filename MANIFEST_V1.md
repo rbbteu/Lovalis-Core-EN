@@ -4,7 +4,7 @@
   <h1>LOVALIS MANIFEST: LIBERTAS PER STRUCTURAM</h1>
 </div>
 
-> **Version:** 1.0 (Declaration of Axioms)
+> **Version: 5.1 (ETERNITY EDITION - ENGLISH)
 > **Type:** Fundamental System Postulate
 > **Status:** Immutable
 
@@ -55,3 +55,4 @@ This is not a proposal. This is a specification for the survival of human sovere
 
 ---
 *End of Manifest.*
+

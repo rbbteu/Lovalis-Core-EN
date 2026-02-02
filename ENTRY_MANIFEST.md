@@ -1,6 +1,6 @@
 ﻿# LOVALIS: ENTRY MANIFEST (Level 0)
 > **Definition:** A Societal Operating System (Logical Infrastructure).
-> **Status:** Gold Master v1.0 / Citizen Documentation.
+> **Status: DEPLOYED (TRINITAS SEALED)
 
 ---
 
@@ -26,3 +26,4 @@ Should the outside world collapse, your local cluster switches to autarky. Thank
 
 ---
 **"Libertas per Structuram."**
+
